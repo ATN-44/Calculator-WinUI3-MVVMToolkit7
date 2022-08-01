@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Calculator-WinUI3-MVVMToolkit7 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Calculator-WinUI3-MVVMToolkit7 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
